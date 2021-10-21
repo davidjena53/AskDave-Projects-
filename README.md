@@ -1,2 +1,11 @@
 # AskDave-Projects-
-Some data science projects
+
+The motivation of this research is to understand the factors that determine the gross earnings of a movie, as well as how these factors may affect such earnings. I aim to understand the variables that have the most impact on gross income of the movie which will naturally lead to recommendation of an actionable plan at the end of the research on what factors can be changed in order to increase gross income.
+
+The dataset is a csv file "movie_metadata" which shows all the factors that may have an impact on the gross earnings of the movie. The research aims to understand the factors that have the highest impact on the gross earnings of the movie.
+
+In the report, I present tests performed on the factors (variables) that I assume have the most impact on movie earnings. I have made an assumption that some variables affect the gross income of a movie more than others. I have chosen to test the relationship between gross sales and five other factors to gain an understanding of how changes in these factors (variables) may affect the gross income.
+
+The five factors that will be investigated for a relationship with gross income are: (i) Budget - this is to understand the relationship between the amount of investment (Budget) given to a movie and the gross income. (ii) Popularity - this is to understand the relationship between the popularity as defined by "number of facbook likes" given to a movie and the gross income. (iii) Reviews - this is to understand the relationship between the reviews given to a movie as defined by "number of user reviews" and the gross income. (iv) Rating - this is to understand the relationship between the ratings of a movie as defined by "imdb score" and the gross income. (v) Popularity of Director - this is to understand the relationship between the popularity of the director as defined by "facebook likes received by director" of a movie and the gross income.
+
+I will also present findings of a multiple regression analysis done on the gross. The goal is to build a model that will estimate the gross income using as explanatory variables the variables that have been defined above.
